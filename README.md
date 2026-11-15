@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sajal Dubey
 
-<!--
-**sajaldubey2401-bit/sajaldubey2401-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student targeting a Cybersecurity Analyst / SOC Analyst role at TCS.
 
-Here are some ideas to get you started:
+## Focus Areas
+- SIEM operation (Splunk)
+- Incident triage and log analysis
+- MITRE ATT&CK mapping
+- Linux and Windows security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- ISC2 Certified in Cybersecurity (CC) — In Progress
+
+## Connect
+- LinkedIn: [https://www.linkedin.com/in/sajal-dubey-567186429/]
